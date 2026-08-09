@@ -44,7 +44,7 @@ python main.py
 ---
 
 ## Output Example (Video)
-[![Watch the Output](https://img.youtube.com/vi/X3BaIABf8zM/maxresdefault.jpg)](https://youtu.be/X3BaIABf8zM)
+[![Watch the output](https://img.youtube.com/vi/X3BaIABf8zM/hqdefault.jpg)](https://youtu.be/X3BaIABf8zM?feature=shared)
 
 ---
 
